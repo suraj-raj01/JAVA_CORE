@@ -52,5 +52,6 @@ public class PrintNum {
         System.out.print("Enter the number: ");
         int n = sc.nextInt();
         printTable(1,n);
+        sc.close();
     }
 }

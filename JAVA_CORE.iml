@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Abstraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayPractice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Constructor Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Encapsulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exceptions Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/File Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Overloading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Set" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WrapperClasses" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
